@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "T-Shirt",
+      "price": 10.99,
+      "category": "Clothing",
+      "image": "https://example.com/t-shirt.jpg",
+      "description": "This classic T-shirt is made from 100% cotton and features a comfortable fit.",
+      "quantityAvailable": 100,
+      "discountPercentage": 10,
+      "membershipPrice": 9.89,
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "colors": ["white", "black", "red", "blue", "green"],
+      "isOnSale": false
+    },
+    {
+      "id": 2,
+      "name": "Running Shoes",
+      "price": 19.99,
+      "category": "Footwear",
+      "image": "https://example.com/running-shoes.jpg",
+      "description": "These high-quality running shoes are designed for maximum comfort and performance.",
+      "quantityAvailable": 50,
+      "discountPercentage": 0,
+      "membershipPrice": 17.99,
+      "sizes": ["7", "8", "9", "10", "11"],
+      "colors": ["gray", "black", "red", "blue", "green"],
+      "isOnSale": true
+    },
+    {
+      "id": 3,
+      "name": "Backpack",
+      "price": 7.99,
+      "category": "Accessories",
+      "image": "https://example.com/backpack.jpg",
+      "description": "This backpack is made from high-quality materials and features a spacious interior.",
+      "quantityAvailable": 200,
+      "discountPercentage": 20,
+      "membershipPrice": 6.39,
+      "sizes": ["one size"],
+      "colors": ["black", "gray", "blue"],
+      "isOnSale": false
+    }
+  ]
+  
